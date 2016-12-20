@@ -78,7 +78,7 @@ function initialiseUI() {
     isSubscribed = !(subscription === null);
 
     if (isSubscribed) {
-      console.log('User IS subscribed.');
+      console.log('+_+ User IS subscribed.');
     } else {
       console.log('User is NOT subscribed.');
     }
@@ -97,9 +97,9 @@ function updateBtn() {
     return;
   }
   if (isSubscribed) {
-    pushButton.textContent = 'Disable Push Messaging';
+    pushButton.textContent = 'Please do not disable agian T-T';
   } else {
-    pushButton.textContent = 'Enable Push Messaging';
+    pushButton.textContent = 'Sexy Push Man yo!';
   }
 
   pushButton.disabled = false;
