@@ -1,8 +1,6 @@
 # Portfolio
 {% include youtube.html id="QO9K61NkzuA" %}
 
-{% youtube PVnJXEfA3A8 %}
-
 {% include youtube.html id="PVnJXEfA3A8" %}  
 
 ## Tizen TV graphics device driver 개발 (2013.09 ~ )
