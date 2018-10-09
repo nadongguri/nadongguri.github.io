@@ -1,19 +1,24 @@
 # Portfolio
 
-
 ## Tizen TV graphics device driver 개발 (2013.09 ~ )
 ![](/image/bootlogo_driver.png)
+
 
 ## 2D display HW simulator 개발 (2011.09)
 ![](/image/2D_simulator.png)
 
 ## Tizen mobile reference application 개발(2010.08 ~ 2010.12)
+[![Video Label](http://img.youtube.com/vi/PVnJXEfA3A8/0.jpg)](https://youtu.be/PVnJXEfA3A8) 이미지 클릭시 영상 재생됩니다.
+
 
 ## DLNA기기 연결간 AR 활용 방안 선행 개발(2010.04 ~ 2010.07)
+[![Video Label](http://img.youtube.com/vi/qfkhUQN5xhY/0.jpg)](https://youtu.be/qfkhUQN5xhY) 이미지 클릭시 영상 재생됩니다.
 
 ## 모바일 게임 개발(2010.03 ~ 2010. 06)
+[![Video Label](http://img.youtube.com/vi/SvlgI1kM3fk/0.jpg)](https://youtu.be/SvlgI1kM3fk) 이미지 클릭시 영상 재생됩니다.
 
 ## 3D wave simulation game using DirectX(2009.11 ~ 2010.02)
+[![Video Label](http://img.youtube.com/vi/978twYe2kck/0.jpg)](https://youtu.be/978twYe2kck) 이미지 클릭시 영상 재생됩니다.
 
 
 ## ETC
