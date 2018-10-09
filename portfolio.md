@@ -3,6 +3,8 @@
 
 {% include youtube.html id="PVnJXEfA3A8" %}  
 
+{% include youtubeplayer.html id="QO9K61NkzuA" %}
+
 ## Tizen TV graphics device driver 개발 (2013.09 ~ )
 ![](/image/bootlogo_driver.png)
 
