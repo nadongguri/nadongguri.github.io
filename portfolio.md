@@ -57,6 +57,10 @@ Android application을 개발 하였습니다.
 
 
 ## ETC
+
+## Naver Deview 2017 "동네 커피샵도 사이렌오더를 쓸 수 있을까?" 발표
+{% include youtubeplayer.html %}  
+
 ### 개발 관련 반복되는 작업들은 python이나 bash로 자동화 코드를 작성하여 사용 및 동료 개발자에 배포합니다.
 ### 아래 3개의 오픈소스 프로젝트에 컨트리뷰션 중입니다.
 * [node-addon-api](https://github.com/nodejs/node-addon-api) : node.js의 N-API를 C++로 wrapping한 module로 testcode 작성에 기여 중입니다.
